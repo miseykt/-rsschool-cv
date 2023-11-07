@@ -1,1 +1,1 @@
-# -rsschool-cv
+https://miseykt.github.io/rsschool-cv/cv
