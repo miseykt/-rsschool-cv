@@ -1,9 +1,9 @@
-# Mikhail Vasilev
+# Васильев Михаил Семенович
 
-# unemployed
+## 79991747418
 
-26 years old
+Стать фронтенд разработчиком 
 
-Russia
+Навыки javascript html css
 
-city: Yakutsk
+Английский А1
