@@ -5,3 +5,5 @@
 26 years old
 
 Russia
+
+city: Yakutsk
