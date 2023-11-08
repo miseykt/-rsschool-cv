@@ -1,9 +1,9 @@
-# Васильев Михаил Семенович
+# 1. Vasiliev Mikhail Semenovich
 
-## 79991747418
+## 2.Contact Information Discord: Mikhail Vasiliev (@miseykt)
 
-Стать фронтенд разработчиком
+3.About me: My goal is to become a front-end developer
 
-Навыки: html css javascript
+4.Skills: html, css, javascript, git, github
 
-Английский А1
+5.English A1
