@@ -1,6 +1,8 @@
-# 1. Vasiliev Mikhail Semenovich
+# EPAM HR Recommendations
 
-## 2.Contact Information Discord: Mikhail Vasiliev (@miseykt)
+## 1. Vasiliev Mikhail Semenovich
+
+### 2.Contact Information Discord: Mikhail Vasiliev (@miseykt)
 
 3.About me: My goal is to become a front-end developer
 
